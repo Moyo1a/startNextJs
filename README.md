@@ -1,0 +1,2 @@
+# startNextJs
+beginning of project
